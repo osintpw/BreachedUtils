@@ -64,6 +64,10 @@ class BreachedUtils {
                {
                 "name": "owo-say",
                 "source": "https://cdn3.emoji.gg/emojis/6226-owo-say.gif"
+               },
+               {
+                "name": "skull",
+                "source": "https://cdn3.emoji.gg/emojis/6740-skull.gif"
                }
             // TODO: Add more emojis
         ];
