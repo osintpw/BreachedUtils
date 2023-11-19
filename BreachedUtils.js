@@ -40,7 +40,11 @@ class BreachedUtils {
             }, {
                 "name": "bara-biz",
                 "source": "https://cdn3.emoji.gg/emojis/2304-capybaralawyer.png"
-            }
+            },
+               {
+                "name": "confused",
+                "source": "https://cdn3.emoji.gg/emojis/6652-confused.png"
+               }
             // TODO: Add more emojis
         ];
 
