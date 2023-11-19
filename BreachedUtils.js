@@ -44,6 +44,14 @@ class BreachedUtils {
                {
                 "name": "confused",
                 "source": "https://cdn3.emoji.gg/emojis/6652-confused.png"
+               },
+               {
+                "name": "blush-tipsy",
+                "source": "https://cdn3.emoji.gg/emojis/5905-blush-tipsy.png"
+               },
+               {
+                "name": "snoopy-cheer",
+                "source": "https://cdn3.emoji.gg/emojis/6483-snoopy-cheer.png"
                }
             // TODO: Add more emojis
         ];
