@@ -20,18 +20,6 @@ class BreachedUtils {
         };
 
         this.customEmojis = [{
-                "name": "pom-shake",
-                "source": "https://xkey.info/assets/images/pom-1.gif"
-            }, {
-                "name": "pom-yay",
-                "source": "https://xkey.info/assets/images/pom-2.gif"
-            }, {
-                "name": "pom-love",
-                "source": "https://xkey.info/assets/images/pom-3.gif"
-            }, {
-                "name": "pom-angy",
-                "source": "https://xkey.info/assets/images/pom-4.gif"
-            }, {
                 "name": "bara-sit",
                 "source": "https://cdn3.emoji.gg/emojis/2403-capybara.png"
             }, {
