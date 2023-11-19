@@ -52,6 +52,14 @@ class BreachedUtils {
                {
                 "name": "snoopy-cheer",
                 "source": "https://cdn3.emoji.gg/emojis/6483-snoopy-cheer.png"
+               },
+               {
+                "name": "pepe-rich",
+                "source": "https://cdn3.emoji.gg/emojis/9561-pepe-rich.gif"
+               },
+               {
+                "name": "sigma",
+                "source": "https://cdn3.emoji.gg/emojis/4331-sigma.gif"
                }
             // TODO: Add more emojis
         ];
