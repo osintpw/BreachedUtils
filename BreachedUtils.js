@@ -68,10 +68,6 @@ class BreachedUtils {
                {
                 "name": "nerd",
                 "source": "https://cdn3.emoji.gg/emojis/4591-nerd.gif"
-               },
-               {
-                "name": "myaowlcat-roar",
-                "source": "https://cdn3.emoji.gg/emojis/4353-myaowlcat-roar.gif"
                }
             // TODO: Add more emojis
         ];
