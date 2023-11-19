@@ -60,6 +60,10 @@ class BreachedUtils {
                {
                 "name": "myaowlcat-roar",
                 "source": "https://cdn3.emoji.gg/emojis/4353-myaowlcat-roar.gif"
+               },
+               {
+                "name": "owo-say",
+                "source": "https://cdn3.emoji.gg/emojis/6226-owo-say.gif"
                }
             // TODO: Add more emojis
         ];
