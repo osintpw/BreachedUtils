@@ -48,6 +48,26 @@ class BreachedUtils {
                {
                 "name": "sigma",
                 "source": "https://cdn3.emoji.gg/emojis/4331-sigma.gif"
+               },
+               {
+                "name": "pepe-bye",
+                "source": "https://cdn3.emoji.gg/emojis/2493-pepe-bye.gif"
+               },
+               {
+                "name": "nerd",
+                "source": "https://cdn3.emoji.gg/emojis/4591-nerd.gif"
+               },
+               {
+                "name": "myaowlcat-roar",
+                "source": "https://cdn3.emoji.gg/emojis/4353-myaowlcat-roar.gif"
+               },
+               {
+                "name": "owo-say",
+                "source": "https://cdn3.emoji.gg/emojis/6226-owo-say.gif"
+               },
+               {
+                "name": "skull",
+                "source": "https://cdn3.emoji.gg/emojis/6740-skull.gif"
                }
             // TODO: Add more emojis
         ];
